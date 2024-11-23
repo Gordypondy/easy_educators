@@ -1,0 +1,11 @@
+/home/pondypro/Documents/Rust/Eshwarla P. Rust Servers, Services, and Apps (Final) 2023/my_code/easy_educators/target/debug/deps/liburl-1b19d3279e00ec31.rmeta: /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs
+
+/home/pondypro/Documents/Rust/Eshwarla P. Rust Servers, Services, and Apps (Final) 2023/my_code/easy_educators/target/debug/deps/url-1b19d3279e00ec31.d: /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs
+
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs:

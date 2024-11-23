@@ -1,0 +1,11 @@
+/home/pondypro/Documents/Rust/Eshwarla P. Rust Servers, Services, and Apps (Final) 2023/my_code/easy_educators/target/debug/deps/libcookie-aeff66a43d03a308.rmeta: /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/lib.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/builder.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/parse.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/jar.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/delta.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/draft.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/expiration.rs
+
+/home/pondypro/Documents/Rust/Eshwarla P. Rust Servers, Services, and Apps (Final) 2023/my_code/easy_educators/target/debug/deps/cookie-aeff66a43d03a308.d: /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/lib.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/builder.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/parse.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/jar.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/delta.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/draft.rs /home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/expiration.rs
+
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/lib.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/builder.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/parse.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/jar.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/delta.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/draft.rs:
+/home/pondypro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.0/src/expiration.rs:
